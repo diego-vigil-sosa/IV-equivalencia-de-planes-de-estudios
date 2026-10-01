@@ -81,8 +81,7 @@ Los parámetros θ y w se ajustan, y la solución se evalúa, con dos tipos de c
 
 La métrica es el porcentaje de casos de cada tipo clasificados correctamente. Una parte de los casos se reserva para comprobar los parámetros elegidos, no solo para ajustarlos.
 
-![Fotografía de la tarjeta de rol](tarjeta.jpeg)
-
 ## Documentación adicional
 
 - [Configuración de git y GitHub](docs/configuracion.md)
+- [Fotografía de la tarjeta del juego de rol](docs/img/tarjeta.jpeg)
