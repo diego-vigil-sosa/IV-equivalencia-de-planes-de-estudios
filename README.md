@@ -62,7 +62,7 @@ Como una correspondencia puede agrupar varias asignaturas, tanto de origen como 
 
 ## Lógica de negocio
 
-El enfoque elegido para medir la [similitud](docs/conceptos.md#similitud-y-umbral) es **TF-IDF con similitud del coseno, calculada por separado para las competencias y para los contenidos de cada guía docente**. La similitud combinada de una pareja es la media ponderada de ambas: w · sim(competencias) + (1 − w) · sim(contenidos). Cómo se calcula la similitud de un grupo de asignaturas se definirá al modelar el problema (M0).
+El enfoque elegido para medir la [similitud](docs/conceptos.md#similitud-y-umbral) es **TF-IDF con similitud del coseno, calculada por separado para las competencias y para los contenidos de cada guía docente**. La similitud combinada de una pareja es la media ponderada de ambas: w · sim(competencias) + (1 − w) · sim(contenidos). Cómo se calcula la similitud de un grupo de asignaturas se definirá al modelar el problema.
 
 Con ella:
 
