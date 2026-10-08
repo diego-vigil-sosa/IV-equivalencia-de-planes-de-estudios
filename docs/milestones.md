@@ -1,6 +1,6 @@
 # Milestones
 
-Los dos milestones avanzan en la misma historia de usuario, la [HU2](historias-de-usuario.md#hu2-cobertura-de-cada-destino-3).
+Los dos milestones avanzan en la misma historia de usuario, la [HU2](historias.md#hu2-cobertura-de-cada-destino-3).
 
 ## M0. Código comprobado sintácticamente
 
