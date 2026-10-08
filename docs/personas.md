@@ -17,7 +17,7 @@
 - Su riesgo está en Matemáticas, la titulación con menos oferta en un destino elegido por su Informática.
 - *Hipótesis no confirmada:* no tenía forma de anticipar qué consideraría el coordinador «no coincidente».
 
-**Cuándo diría «ha ido bien».** Su valoración final fue «creo que me ha ido bien». *Deducido de las necesidades del journey:* diría que ha ido bien si firma el acuerdo sin rechazos sorpresa, sabiendo de antemano qué parejas son débiles y qué asignaturas no tienen equivalente, y con una salida para estas (la suya: cursarlas en origen con evaluación única final).
+**Cuándo diría «ha ido bien».** Su valoración final fue «creo que me ha ido bien». *Deducido de las necesidades del journey:* diría que ha ido bien si firma el acuerdo sin rechazos sorpresa, sabiendo de antemano qué asignaturas puede rechazarle el coordinador y cuáles no tienen equivalente, y con una salida para estas (la suya: cursarlas en origen con evaluación única final).
 
 **Contexto de uso.** Una vez por movilidad y de nuevo con cada modificación del acuerdo. Lo costoso es el análisis inicial; las modificaciones con muchas alternativas son rápidas.
 

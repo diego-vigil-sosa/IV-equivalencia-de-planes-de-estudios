@@ -56,7 +56,7 @@ Terminar la carrera cursando en la UPM asignaturas que se reconozcan como equiva
 
 - Necesita reducir el tiempo que dedica a leer y comparar guías docentes, que es la parte más costosa del proceso.
 - Necesita que la comparación refleje los contenidos, que es el criterio que usa de forma natural.
-- Necesita saber cuanto antes qué asignaturas de origen no tienen ningún equivalente plausible en destino, para no seguir buscando lo que no existe.
+- Necesita saber cuanto antes qué asignaturas de origen no tienen en destino ninguna asignatura que se les parezca, para no seguir buscando lo que no existe.
 
 #### 3. Firma del coordinador
 
@@ -70,7 +70,7 @@ Terminar la carrera cursando en la UPM asignaturas que se reconozcan como equiva
 
 **Necesidades.**
 
-- Necesita saber, antes de presentar el acuerdo, qué parejas de asignaturas son débiles y por qué, para no descubrirlo en la firma.
+- Necesita saber, antes de presentar el acuerdo, qué asignaturas del acuerdo puede rechazar el coordinador y por qué, para no descubrirlo en la firma.
 
 #### 4. Modificación del acuerdo
 
