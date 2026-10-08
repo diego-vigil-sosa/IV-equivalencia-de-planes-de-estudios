@@ -82,7 +82,7 @@ Terminar la carrera cursando en la UPM asignaturas que se reconozcan como equiva
 
 **Necesidades.**
 
-- Cuando una asignatura del acuerdo deja de ser viable (en su caso, por horario), necesita encontrar sustitutas que mantengan el mismo [grado de equivalencia](conceptos.md#grado-de-equivalencia).
+- Cuando una asignatura del acuerdo deja de ser viable (en su caso, por horario), necesita encontrar sustitutas que mantengan el mismo grado de equivalencia.
 
 #### 5. Valoración final
 
