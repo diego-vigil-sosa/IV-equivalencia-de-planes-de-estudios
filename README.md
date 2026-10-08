@@ -4,29 +4,32 @@
 
 ### Contexto
 
-Los estudiantes del programa SICUE (Sistema de Intercambio entre Centros Universitarios de España) tienen que elaborar un [acuerdo académico](docs/conceptos.md#acuerdo-académico) con las asignaturas que cursarán en la universidad de destino, y este proceso les causa problemas de forma habitual.
+Los estudiantes del programa SICUE (Sistema de Intercambio entre Centros Universitarios de España) tienen que elaborar un acuerdo académico con las asignaturas que cursarán en la universidad de destino, y este proceso les causa problemas de forma habitual.
 
 ### Descripción del proceso actual
 
 Seleccionar, en la universidad de destino, asignaturas equivalentes a las del plan de estudios de la universidad de origen es un proceso agotador. El estudiante tiene que:
 
-1. Leer y analizar las [guías docentes](docs/conceptos.md#guía-docente) de todas las asignaturas que pueda elegir, así como las de su titulación en la universidad de origen.
-2. Seleccionar aquellas que desee y que considere equivalentes, y recogerlas en el acuerdo académico, que deben firmar el propio estudiante y los coordinadores SICUE de ambos centros.
+1. Leer y analizar las guías docentes de todas las asignaturas que pueda elegir, así como las de su titulación en la universidad de origen.
+2. Seleccionar aquellas que desee y que considere equivalentes, y recogerlas en el **acuerdo académico**, que deben firmar el propio estudiante y los coordinadores SICUE de ambos centros.
 
-El acuerdo académico es vinculante y solo puede modificarse durante un plazo corto (ver la [definición](docs/conceptos.md#acuerdo-académico)). Por eso la decisión clave es la del coordinador de origen al firmar: en ese momento se juzga si las asignaturas elegidas son equivalentes.
+El acuerdo académico es vinculante: una vez firmado por las tres partes, lo que el estudiante curse en destino se reconoce automáticamente en origen, y el acuerdo solo puede modificarse durante el primer mes desde el inicio del semestre ([normas del programa SICUE, CRUE](https://www.crue.org/sicue/)). Por eso la decisión clave es la del coordinador de origen al firmar: en ese momento se juzga si las asignaturas elegidas son equivalentes.
 
 ### Criterio de equivalencia
 
-La [equivalencia](docs/conceptos.md#equivalencia) entre asignaturas se evalúa por **competencias y contenidos**, no por el nombre. El marco normativo y las reglas que el proyecto deriva de él están definidos en [Conceptos](docs/conceptos.md), que es la única fuente de estas reglas:
+La equivalencia entre asignaturas se evalúa por **competencias y contenidos**. El [Real Decreto 822/2021](https://www.boe.es/buscar/act.php?id=BOE-A-2021-15781) (art. 10) regula el reconocimiento de créditos entre títulos universitarios oficiales y encarga a cada universidad aprobar su propia normativa. Estas normativas concretan el criterio con la misma fórmula: la adecuación entre las competencias y conocimientos asociados a las asignaturas cursadas y los previstos en el plan de estudios. Las [normas del programa SICUE](https://www.crue.org/sicue/) añaden dos cosas. El intercambio debe adecuarse al perfil curricular del estudiante. Además, las optativas de destino que no existan en el plan de origen pueden incorporarse al expediente como optativas.
 
-- qué es una [correspondencia](docs/conceptos.md#correspondencia) entre asignaturas y cuándo una asignatura queda [cubierta](docs/conceptos.md#asignatura-cubierta);
-- cuándo un [plan es válido y cuándo es completo](docs/conceptos.md#plan-válido-y-plan-completo);
-- cómo se calcula el [grado de equivalencia](docs/conceptos.md#grado-de-equivalencia);
-- cuál es el [mínimo de ECTS](docs/conceptos.md#mínimo-de-ects) según la estancia.
+En este proyecto, ese criterio se traduce en las siguientes reglas:
+
+- Una asignatura de origen queda **cubierta** por una o varias asignaturas de destino si se cumplen dos condiciones: la similitud entre sus competencias y contenidos supera un umbral, y la suma de sus ECTS es igual o mayor que los ECTS de la asignatura de origen.
+- Cada asignatura de destino cubre, como máximo, una asignatura de origen.
+- La optativa de origen puede cubrirse con cualquier asignatura de destino con ECTS suficientes, ya que puede incorporarse como optativa.
+- El plan debe sumar al menos 24 ECTS en una estancia de medio curso o 45 ECTS en una de curso completo.
+- El **grado de equivalencia** de un plan es el porcentaje de ECTS de origen cubiertos. Un plan es equivalente cuando cubre todas las asignaturas obligatorias de origen.
 
 ### Por qué es un problema
 
-- El proceso es lento y puede tener que repetirse porque una asignatura deja de ser [viable](docs/conceptos.md#asignatura-viable-y-no-viable) (falta de plazas, conflictos de horarios, entre otras causas). Como el acuerdo solo puede modificarse durante el primer mes del semestre, cada contratiempo obliga a rehacer el análisis con prisa.
+- El proceso es lento y puede tener que repetirse por falta de plazas en las asignaturas, conflictos de horarios, entre otras causas. Como el acuerdo solo puede modificarse durante el primer mes del semestre, cada contratiempo obliga a rehacer el análisis con prisa.
 - Las plazas SICUE se ofertan mediante convenios bilaterales entre centros: el estudiante elige destino meses antes de conocer la disponibilidad real de plazas en cada asignatura y los horarios definitivos.
 - Es un problema muy habitual entre los estudiantes de programas de movilidad, y supone una pérdida de tiempo y de oportunidades para que el estudiante pueda cursar las asignaturas que realmente desea.
 
@@ -36,7 +39,7 @@ Las guías docentes de las asignaturas son públicas, al igual que otros criteri
 
 ### Escala del problema
 
-Una titulación de grado de 240 ECTS puede tener unas 60 guías docentes. Para elaborar el acuerdo académico, el estudiante tiene que comparar cada una de las [asignaturas que le faltan](docs/conceptos.md#asignaturas-que-me-faltan) con todas las asignaturas elegibles en destino, y después escoger una combinación.
+Una titulación de grado de 240 ECTS puede tener unas 60 guías docentes. Para elaborar el acuerdo académico, el estudiante tiene que comparar cada asignatura de origen que va a sustituir con todas las asignaturas elegibles en destino, y después escoger una combinación.
 
 **Asignaturas de la ETSIIT que se pueden escoger por año del grado en el primer semestre**
 
@@ -58,36 +61,23 @@ Un estudiante de último curso solo puede escoger asignaturas de 3º y 4º, es d
 | Comparaciones asignatura a asignatura | 165 | ~600 |
 | Combinaciones posibles de asignaturas de destino | C(33, 5) = 237 336 | C(60, 10) ≈ 7,5 · 10¹⁰ |
 
-Como una correspondencia puede agrupar varias asignaturas, tanto de origen como de destino, el número real de planes posibles es aún mayor. Además, cada falta de plazas o conflicto de horarios obliga a repetir la búsqueda.
+Como una asignatura de origen puede quedar cubierta por varias de destino, el número real de planes posibles es aún mayor. Además, cada falta de plazas o conflicto de horarios obliga a repetir la búsqueda.
 
 ## Lógica de negocio
 
-El enfoque elegido para medir la [similitud](docs/conceptos.md#similitud-y-umbral) es **TF-IDF con similitud del coseno, calculada por separado para las competencias y para los contenidos de cada guía docente**. La similitud combinada de una pareja es la media ponderada de ambas: w · sim(competencias) + (1 − w) · sim(contenidos). Cómo se calcula la similitud de un grupo de asignaturas se definirá al modelar el problema.
-
-Con ella:
-
-- una pareja es [equivalente plausible](docs/conceptos.md#equivalente-plausible) por similitud si su similitud combinada alcanza el umbral θ;
-- es [débil](docs/conceptos.md#pareja-débil) si su similitud combinada queda en [θ, θ + δ) o si la de alguna dimensión queda por debajo de θ.
-
-### Parámetros
-
-θ, w y δ son únicos para todo el sistema y se ajustan con los casos de [validación](#validación). No se ajusta un θ por centro o por coordinador porque los casos disponibles para cada uno serían pocos y el ajuste se sobreajustaría. δ se fija como el intervalo por encima de θ en el que la solución todavía clasifica mal casos de validación.
-
-### Por qué este enfoque
+El enfoque elegido es **TF-IDF con similitud del coseno, calculada por separado para las competencias y para los contenidos de cada guía docente**. La similitud de una pareja de asignaturas es la media ponderada de ambas: w · sim(competencias) + (1 − w) · sim(contenidos). La pareja se considera equivalente si esa similitud supera un umbral θ. Los motivos para usar esta lógica son los siguientes:
 
 - **TF-IDF frente a Jaccard.** El índice de Jaccard da el mismo peso a todos los términos. Las guías docentes están llenas de vocabulario común a cualquier asignatura (competencia, evaluación, alumnado, prácticas), que inflaría la similitud entre asignaturas sin relación. TF-IDF reduce el peso de esos términos, porque aparecen en casi todas las guías.
 - **Similitud del coseno.** No depende de la longitud del texto, y la extensión de las guías varía mucho entre universidades.
 - **Comparación por secciones.** Separa las dos dimensiones del criterio de la normativa: competencias y contenidos.
-- **Explicabilidad.** Para cada pareja débil se muestra la similitud de cada dimensión y su distancia a θ. También se muestran los términos que más aportan a la similitud y los términos de mayor peso de la asignatura de origen que no aparecen en la de destino. Ese es el «porqué» de la pareja débil, y lo que el estudiante puede presentar al coordinador.
+- **Explicabilidad.** Para cada pareja de asignaturas se pueden mostrar los términos que más aportan a la similitud. Eso es lo que el estudiante puede presentar al coordinador para justificar el acuerdo.
 
 ## Validación
 
-Los parámetros θ, w y δ se ajustan, y la solución se evalúa, con dos tipos de casos:
+Los parámetros θ y w se ajustan, y la solución se evalúa, con dos tipos de casos:
 
-- **Casos positivos.** Son acuerdos académicos SICUE ya aprobados, es decir, firmados por el coordinador de origen. La solución tiene que aceptar todas sus correspondencias. Se pueden obtener de estudiantes SICUE de cursos anteriores, que no son pocos: según CRUE, el programa sumó 63.268 movilidades en sus primeros veinte años ([CRUE, 2019](https://www.crue.org/2019/10/aniversario-sicue-20/)), una media de unas 3.000 al año.
-- **Casos negativos.** Son correspondencias que el coordinador de origen no firmaría. Se obtienen preguntándole por propuestas concretas, por ejemplo variantes de acuerdos aprobados en las que una asignatura se sustituye por otra sin relación. La solución tiene que rechazarlas.
-
-En los casos de validación no se aplican [precedentes](docs/conceptos.md#precedente): el ajuste y la evaluación usan solo la similitud. Si se aplicaran, los casos positivos se aceptarían por ser ellos mismos precedentes y la validación sería circular.
+- **Casos positivos.** Son acuerdos académicos SICUE ya aprobados, es decir, firmados por el coordinador de origen. La solución tiene que darlos como válidos. Se pueden obtener de estudiantes SICUE de cursos anteriores, que no son pocos: según CRUE, el programa sumó 63.268 movilidades en sus primeros veinte años ([CRUE, 2019](https://www.crue.org/2019/10/aniversario-sicue-20/)), una media de unas 3.000 al año.
+- **Casos negativos.** Son planes que el coordinador de origen no firmaría. Se obtienen preguntándole por propuestas concretas, por ejemplo variantes de acuerdos aprobados en las que una asignatura se sustituye por otra sin relación. La solución tiene que rechazarlos.
 
 La métrica es el porcentaje de casos de cada tipo clasificados correctamente. Una parte de los casos se reserva para comprobar los parámetros elegidos, no solo para ajustarlos.
 
@@ -97,7 +87,6 @@ La métrica es el porcentaje de casos de cada tipo clasificados correctamente. U
 - [Personas](docs/personas.md)
 - [Historias de usuario](docs/historias.md) ([issues](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/issues?q=label%3Auser-stories))
 - [Milestones](docs/milestones.md) ([en GitHub](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/milestones))
-- [Conceptos](docs/conceptos.md)
 
 ## Documentación adicional
 
