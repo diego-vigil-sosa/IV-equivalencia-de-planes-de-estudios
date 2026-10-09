@@ -81,6 +81,13 @@ Los parámetros θ y w se ajustan, y la solución se evalúa, con dos tipos de c
 
 La métrica es el porcentaje de casos de cada tipo clasificados correctamente. Una parte de los casos se reserva para comprobar los parámetros elegidos, no solo para ajustarlos.
 
+## Planificación
+
+- [User journeys](docs/user-journeys.md)
+- [Personas](docs/personas.md)
+- [Historias de usuario](docs/historias-de-usuario.md) ([issues](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/issues?q=label%3Auser-stories))
+- [Milestones](docs/milestones-proyecto.md) ([en GitHub](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/milestones))
+
 ## Documentación adicional
 
 - [Configuración de git y GitHub](docs/configuracion.md)
