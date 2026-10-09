@@ -86,7 +86,7 @@ La métrica es el porcentaje de casos de cada tipo clasificados correctamente. U
 - [User journeys](docs/user-journeys.md)
 - [Personas](docs/personas.md)
 - [Historias de usuario](docs/historias-de-usuario.md) ([issues](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/issues?q=label%3Auser-stories))
-- [Milestones](docs/milestones.md) ([en GitHub](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/milestones))
+- [Milestones](docs/milestones-proyecto.md) ([en GitHub](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/milestones))
 
 ## Documentación adicional
 
